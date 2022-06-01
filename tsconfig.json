@@ -1,16 +1,6 @@
 {
     "compilerOptions": {
-        "experimentalDecorators": true,
-        "module": "commonjs",
-        "noImplicitReturns": true,
-        "noUnusedLocals": true,
-        "outDir": "./build/",
-        "sourceMap": true,
+        "module": "CommonJS",
         "strict": true,
-        "target": "es2017"
-    },
-    "compileOnSave": true,
-    "include": [
-        "src",
-    ]
+    }
 }
